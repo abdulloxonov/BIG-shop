@@ -479,6 +479,7 @@ h3 {
 
     .gifts {
         flex-direction: column;
+        margin: 0;
     }
 }
 </style>
