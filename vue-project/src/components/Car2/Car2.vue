@@ -369,7 +369,7 @@ h3 {
 .discount-item {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 11px;
     margin-bottom: 5px;
 }
 
